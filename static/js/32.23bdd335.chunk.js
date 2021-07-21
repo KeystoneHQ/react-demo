@@ -1,2 +1,0 @@
-(window["webpackJsonponboard-notify-react"]=window["webpackJsonponboard-notify-react"]||[]).push([[32],{315:function(n,o){},316:function(n,o){},317:function(n,o){},318:function(n,o){},319:function(n,o){},817:function(n,o){}}]);
-//# sourceMappingURL=32.23bdd335.chunk.js.map
